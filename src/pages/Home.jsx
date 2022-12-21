@@ -1,6 +1,7 @@
 import React from "react";
 import welcome from "../../src/welcome.png"
 
+
 function home() {
   return (
     <div className="section">

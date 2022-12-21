@@ -4,10 +4,10 @@ import acercade from '../../src/about.png'
 function about() {
   return (
     <div className="section">
-        <div>
+      <div>
         <img src={acercade} alt= 'Acerca de nosotros'></img>
-          </div>
+        </div>
     </div>
-  )
+  ) 
 } 
 export default about
