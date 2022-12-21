@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de507dd8.css",
+    "main.js": "/static/js/main.bdd5440a.js",
+    "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
+    "static/media/kana.png": "/static/media/kana.f5821927c4df1487c5f8.png",
+    "static/media/shinku.png": "/static/media/shinku.0e0159a60a902bc2377a.png",
+    "static/media/bara.png": "/static/media/bara.6c46dffa8cc61c3b8a69.png",
+    "static/media/souse.png": "/static/media/souse.ccfe46bd26faa210c057.png",
+    "static/media/hinaichigo.png": "/static/media/hinaichigo.d4952932b983ec572a48.png",
+    "static/media/sugin.png": "/static/media/sugin.05928a100c0879503753.png",
+    "static/media/welcome.png": "/static/media/welcome.75a81d921b5047766113.png",
+    "static/media/about.png": "/static/media/about.934eb3f50bbf2870b63f.png",
+    "static/media/suise.png": "/static/media/suise.6afb0e5992d6075a74e2.png",
+    "static/media/ShinkuPop.png": "/static/media/ShinkuPop.0eec129e013ee8e3893f.png",
+    "index.html": "/index.html",
+    "main.de507dd8.css.map": "/static/css/main.de507dd8.css.map",
+    "main.bdd5440a.js.map": "/static/js/main.bdd5440a.js.map",
+    "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de507dd8.css",
+    "static/js/main.bdd5440a.js"
+  ]
+}
