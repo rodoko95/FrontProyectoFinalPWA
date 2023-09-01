@@ -7,7 +7,7 @@ import { useState } from 'react';
 const Order = () => {
 
   //api de la database
-  const URL = 'https://backproyectofinalpwa-production.up.railway.app/crear';
+  const URL = 'https://backendpwa.adaptable.app/crear';
 
   //inicializamos variables vacías para el useState
   const [inputs, setInputs] = useState({
