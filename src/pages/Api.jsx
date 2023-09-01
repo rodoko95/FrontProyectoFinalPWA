@@ -10,7 +10,7 @@ const API = () => {
         const [maidens, setMaiden] = useState([]);
 
         //api de mi database
-        const URL = 'https://backproyectofinalpwa-production.up.railway.app/datos';
+        const URL = 'https://backendpwa.adaptable.app/datos';
   
   //Creamos una funcion para usar el useeffect
 
